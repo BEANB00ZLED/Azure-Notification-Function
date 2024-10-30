@@ -1,0 +1,13 @@
+{
+    "specversion": "1.0",
+    "source": "iot-pubsub",
+    "time": "2024-10-30T13:23:44.138Z",
+    "id": "6aef1b30-2bd2-4fc5-be70-5323ad083f88",
+    "subject": "device-telemetry/bmp280",
+    "datacontenttype": "application/json; charset=utf-8",
+    "type": "MQTT.EventPublished",
+    "data": {
+      "pressure": 1000,
+      "temperature": 115
+    }
+}
